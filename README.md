@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @juster-bot
 - 👀 I’m interested in Web-Apps
 - 🌱 I’m currently learning Python
-- 📫 How to reach me racoonprojekt(at)gmail.com
 
 <!---
 juster-bot/juster-bot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
